@@ -43,3 +43,20 @@ footer{
     line-height: 1.1;
     text-indent: 20px;
 }
+
+.sertificates{
+    display: flex;
+    padding: 20px;
+    align-items:center;
+}
+.line_of_setrs{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.sertificate{
+    width: 28%;
+    height: auto;
+    box-shadow: 6px 5px 5px #077C96;
+}
