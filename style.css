@@ -46,12 +46,12 @@ footer{
     padding: 20px;
     align-items:center;
 }
-.line_of_setrs{
+.line_of_serts{
     display: flex;
     justify-content: space-around;
 }
 .sertificate{
-    width: 28%;
+    width: 30%;
     height: auto;
     box-shadow: 6px 5px 5px #077C96;
     cursor: pointer;

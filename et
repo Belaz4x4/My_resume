@@ -1,0 +1,29 @@
+[33mcommit a4b29867bf492cb98bce8ec30194c9824f7df48c[m[33m ([m[1;36mHEAD -> [m[1;32mbig_sertificates[m[33m)[m
+Author: Villeman <belaz4x4@yandex.ru>
+Date:   Fri Jun 3 16:00:44 2022 +0300
+
+    images is links
+
+[33mcommit b12c95462aa8a335366be70a348a212d0a2aee70[m
+Author: Villeman <belaz4x4@yandex.ru>
+Date:   Fri Jun 3 12:14:42 2022 +0300
+
+    3
+
+[33mcommit 713242a94bb900b6314e89c50197c586006b1cfb[m
+Author: Villeman <belaz4x4@yandex.ru>
+Date:   Fri Jun 3 12:06:19 2022 +0300
+
+    Added links and signatures
+
+[33mcommit cfda98dc04f172c659a0866044d6b32ed9436468[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Villeman <belaz4x4@yandex.ru>
+Date:   Thu Jun 2 08:36:19 2022 +0300
+
+    added gitignor and style on sertificates, changeed link on avatar
+
+[33mcommit 169930cfb4d04dd9abf374c15e5e015e0e83e438[m
+Author: Villeman <belaz4x4@yandex.ru>
+Date:   Thu Jun 2 07:36:19 2022 +0300
+
+    First commit
