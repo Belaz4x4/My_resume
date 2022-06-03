@@ -5,7 +5,7 @@ body{
     margin: auto;
 }
 img{
-    height: auto;
+    height: 310px;
     margin: 10px;
 }
 fieldset{
@@ -14,9 +14,6 @@ fieldset{
 }
 P {
     line-height: 1.0;
-}
-img{
-    height: 275px;
 }
 header{
     background-color: #077C96;
@@ -53,10 +50,9 @@ footer{
     display: flex;
     justify-content: space-around;
 }
-
-
 .sertificate{
     width: 28%;
     height: auto;
     box-shadow: 6px 5px 5px #077C96;
+    cursor: pointer;
 }
